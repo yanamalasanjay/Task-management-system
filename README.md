@@ -434,9 +434,3 @@ spring.mail.password=your-16-digit-app-password
 ## 📝 License
 
 This project is created for educational and interview purposes.
-
----
-
-**Built for Reliance Industries Ltd - Battery Cell & CAM Projects**
-
-**IIT Bhubaneswar**
