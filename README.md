@@ -430,7 +430,3 @@ spring.mail.password=your-16-digit-app-password
 - Company: Reliance Industries Limited
 
 ---
-
-## 📝 License
-
-This project is created for educational and interview purposes.
